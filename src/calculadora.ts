@@ -44,7 +44,7 @@ btnCalcular.addEventListener("click", () => {
 });
 
 //------------------------------------------
-// OPCION CON METEDOS
+// OPCION CON METODOS
 /*
 let dibujarGuiones = (guiones: number) => {
   let linea: string = "-";
